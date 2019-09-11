@@ -1,0 +1,7 @@
+J:\source\ASD\CSHARP-master\Ismetles\Eretsegizok\bin\Debug\Eretsegizok.exe.config
+J:\source\ASD\CSHARP-master\Ismetles\Eretsegizok\bin\Debug\Eretsegizok.exe
+J:\source\ASD\CSHARP-master\Ismetles\Eretsegizok\bin\Debug\Eretsegizok.pdb
+J:\source\ASD\CSHARP-master\Ismetles\Eretsegizok\obj\Debug\Eretsegizok.csprojAssemblyReference.cache
+J:\source\ASD\CSHARP-master\Ismetles\Eretsegizok\obj\Debug\Eretsegizok.csproj.CoreCompileInputs.cache
+J:\source\ASD\CSHARP-master\Ismetles\Eretsegizok\obj\Debug\Eretsegizok.exe
+J:\source\ASD\CSHARP-master\Ismetles\Eretsegizok\obj\Debug\Eretsegizok.pdb
