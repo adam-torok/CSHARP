@@ -1,0 +1,7 @@
+J:\source\ASD\CSHARP-master\Ismetles\kitalalosJatek\bin\Debug\kitalalosJatek.exe.config
+J:\source\ASD\CSHARP-master\Ismetles\kitalalosJatek\bin\Debug\kitalalosJatek.exe
+J:\source\ASD\CSHARP-master\Ismetles\kitalalosJatek\bin\Debug\kitalalosJatek.pdb
+J:\source\ASD\CSHARP-master\Ismetles\kitalalosJatek\obj\Debug\kitalalosJatek.csproj.CoreCompileInputs.cache
+J:\source\ASD\CSHARP-master\Ismetles\kitalalosJatek\obj\Debug\kitalalosJatek.exe
+J:\source\ASD\CSHARP-master\Ismetles\kitalalosJatek\obj\Debug\kitalalosJatek.pdb
+J:\source\ASD\CSHARP-master\Ismetles\kitalalosJatek\obj\Debug\kitalalosJatek.csprojAssemblyReference.cache
