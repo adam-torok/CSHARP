@@ -1,0 +1,13 @@
+c:\users\boros.bence\source\repos\Ismetles\VezerlesiSzerkezet\bin\Debug\VezerlesiSzerkezet.exe.config
+c:\users\boros.bence\source\repos\Ismetles\VezerlesiSzerkezet\bin\Debug\VezerlesiSzerkezet.exe
+c:\users\boros.bence\source\repos\Ismetles\VezerlesiSzerkezet\bin\Debug\VezerlesiSzerkezet.pdb
+c:\users\boros.bence\source\repos\Ismetles\VezerlesiSzerkezet\obj\Debug\VezerlesiSzerkezet.csproj.CoreCompileInputs.cache
+c:\users\boros.bence\source\repos\Ismetles\VezerlesiSzerkezet\obj\Debug\VezerlesiSzerkezet.exe
+c:\users\boros.bence\source\repos\Ismetles\VezerlesiSzerkezet\obj\Debug\VezerlesiSzerkezet.pdb
+J:\source\ASD\CSHARP-master\Ismetles\VezerlesiSzerkezet\bin\Debug\VezerlesiSzerkezet.exe.config
+J:\source\ASD\CSHARP-master\Ismetles\VezerlesiSzerkezet\bin\Debug\VezerlesiSzerkezet.exe
+J:\source\ASD\CSHARP-master\Ismetles\VezerlesiSzerkezet\bin\Debug\VezerlesiSzerkezet.pdb
+J:\source\ASD\CSHARP-master\Ismetles\VezerlesiSzerkezet\obj\Debug\VezerlesiSzerkezet.csprojAssemblyReference.cache
+J:\source\ASD\CSHARP-master\Ismetles\VezerlesiSzerkezet\obj\Debug\VezerlesiSzerkezet.csproj.CoreCompileInputs.cache
+J:\source\ASD\CSHARP-master\Ismetles\VezerlesiSzerkezet\obj\Debug\VezerlesiSzerkezet.exe
+J:\source\ASD\CSHARP-master\Ismetles\VezerlesiSzerkezet\obj\Debug\VezerlesiSzerkezet.pdb
