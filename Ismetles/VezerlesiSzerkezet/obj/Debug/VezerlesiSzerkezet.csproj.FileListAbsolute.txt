@@ -1,0 +1,6 @@
+c:\users\boros.bence\source\repos\Ismetles\VezerlesiSzerkezet\bin\Debug\VezerlesiSzerkezet.exe.config
+c:\users\boros.bence\source\repos\Ismetles\VezerlesiSzerkezet\bin\Debug\VezerlesiSzerkezet.exe
+c:\users\boros.bence\source\repos\Ismetles\VezerlesiSzerkezet\bin\Debug\VezerlesiSzerkezet.pdb
+c:\users\boros.bence\source\repos\Ismetles\VezerlesiSzerkezet\obj\Debug\VezerlesiSzerkezet.csproj.CoreCompileInputs.cache
+c:\users\boros.bence\source\repos\Ismetles\VezerlesiSzerkezet\obj\Debug\VezerlesiSzerkezet.exe
+c:\users\boros.bence\source\repos\Ismetles\VezerlesiSzerkezet\obj\Debug\VezerlesiSzerkezet.pdb

@@ -1,0 +1,7 @@
+c:\users\boros.bence\source\repos\Ismetles\Valtozok\bin\Debug\Valtozok.exe.config
+c:\users\boros.bence\source\repos\Ismetles\Valtozok\bin\Debug\Valtozok.exe
+c:\users\boros.bence\source\repos\Ismetles\Valtozok\bin\Debug\Valtozok.pdb
+c:\users\boros.bence\source\repos\Ismetles\Valtozok\obj\Debug\Valtozok.csprojAssemblyReference.cache
+c:\users\boros.bence\source\repos\Ismetles\Valtozok\obj\Debug\Valtozok.csproj.CoreCompileInputs.cache
+c:\users\boros.bence\source\repos\Ismetles\Valtozok\obj\Debug\Valtozok.exe
+c:\users\boros.bence\source\repos\Ismetles\Valtozok\obj\Debug\Valtozok.pdb

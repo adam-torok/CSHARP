@@ -1,0 +1,6 @@
+c:\users\boros.bence\source\repos\Ismetles\Parameterek\bin\Debug\Parameterek.exe.config
+c:\users\boros.bence\source\repos\Ismetles\Parameterek\bin\Debug\Parameterek.exe
+c:\users\boros.bence\source\repos\Ismetles\Parameterek\bin\Debug\Parameterek.pdb
+c:\users\boros.bence\source\repos\Ismetles\Parameterek\obj\Debug\Parameterek.csproj.CoreCompileInputs.cache
+c:\users\boros.bence\source\repos\Ismetles\Parameterek\obj\Debug\Parameterek.exe
+c:\users\boros.bence\source\repos\Ismetles\Parameterek\obj\Debug\Parameterek.pdb
