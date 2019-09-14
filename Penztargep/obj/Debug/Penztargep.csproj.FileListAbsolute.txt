@@ -1,0 +1,7 @@
+C:\Users\boros.bence\source\repos\Szamitas\Penztargep\bin\Debug\Penztargep.exe.config
+C:\Users\boros.bence\source\repos\Szamitas\Penztargep\bin\Debug\Penztargep.exe
+C:\Users\boros.bence\source\repos\Szamitas\Penztargep\bin\Debug\Penztargep.pdb
+C:\Users\boros.bence\source\repos\Szamitas\Penztargep\obj\Debug\Penztargep.csprojAssemblyReference.cache
+C:\Users\boros.bence\source\repos\Szamitas\Penztargep\obj\Debug\Penztargep.csproj.CoreCompileInputs.cache
+C:\Users\boros.bence\source\repos\Szamitas\Penztargep\obj\Debug\Penztargep.exe
+C:\Users\boros.bence\source\repos\Szamitas\Penztargep\obj\Debug\Penztargep.pdb
