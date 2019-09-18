@@ -1,0 +1,7 @@
+J:\c#\0918\oop\oop\bin\Debug\oop.exe.config
+J:\c#\0918\oop\oop\bin\Debug\oop.exe
+J:\c#\0918\oop\oop\bin\Debug\oop.pdb
+J:\c#\0918\oop\oop\obj\Debug\oop.csprojAssemblyReference.cache
+J:\c#\0918\oop\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+J:\c#\0918\oop\oop\obj\Debug\oop.exe
+J:\c#\0918\oop\oop\obj\Debug\oop.pdb
