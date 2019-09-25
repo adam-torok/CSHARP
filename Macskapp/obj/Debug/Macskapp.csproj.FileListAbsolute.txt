@@ -1,0 +1,7 @@
+J:\c#\macskaap\Macskapp\Macskapp\bin\Debug\Macskapp.exe.config
+J:\c#\macskaap\Macskapp\Macskapp\bin\Debug\Macskapp.exe
+J:\c#\macskaap\Macskapp\Macskapp\bin\Debug\Macskapp.pdb
+J:\c#\macskaap\Macskapp\Macskapp\obj\Debug\Macskapp.csprojAssemblyReference.cache
+J:\c#\macskaap\Macskapp\Macskapp\obj\Debug\Macskapp.csproj.CoreCompileInputs.cache
+J:\c#\macskaap\Macskapp\Macskapp\obj\Debug\Macskapp.exe
+J:\c#\macskaap\Macskapp\Macskapp\obj\Debug\Macskapp.pdb
